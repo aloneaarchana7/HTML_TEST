@@ -1,0 +1,37 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+#header-nav{
+    border: 3px solid #000;
+    background-color: gray;
+}
+
+.menuname h2
+{
+    margin-top : 10px;
+}
+
+.content {
+  background-color: gray;
+  padding: 20px ;
+  margin: 10px;
+}
+
+.content h3 {
+text-align : center;
+}
+
+.nav-item a {
+    text-align : center;
+}
+
+.nav-item {
+    border: solid 1px black;
+}
+
+.navbarTogglerDemo02 {
+  clear: both;
+  margin-top: -30px;
+  }
