@@ -28,7 +28,7 @@ text-align : center;
 }
 
 .nav-item {
-    border: solid 1px black;
+    border-bottom: solid 1px black;
 }
 
 .navbarTogglerDemo02 {
